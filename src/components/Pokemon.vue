@@ -69,16 +69,15 @@ export default {
   width: 50%;
   align-content: left;
   padding: 10px 10px;
-  width: 40%;
-  margin-right : 50%;
   border: 5px solid #2468b1;
+  width: 96%;
   border-radius: 30px;
 }
 
 .infos{
-  width: 70%;
+  width: 40%;
   height: 400px;
-  margin-left: 15%;
+  margin-left: 30%;
   padding: 5px;
   background-color: white;
   border-radius: 30px;
@@ -101,7 +100,7 @@ button{
     position : block;
     border: 5px solid #FCCF00;
     border-radius: 30px;
-    width: 41.5%;
+    width: 98%;
 }
 
 .categorie{
